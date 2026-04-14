@@ -41,6 +41,7 @@ Nuestro análisis se fundamenta en los pilares de datos abiertos en México:
 | **CONEVAL** | [Medición de la Pobreza en México](https://www.datos.gob.mx/dataset/pobreza_mexico) | Indicadores de carencia social y niveles de ingreso. |
 | **INEGI** | [Datos Abiertos](https://www.inegi.org.mx/datosabiertos/) | Censos de población, vivienda e infraestructura básica. |
 
+*(Nota: Para un detalle exhaustivo de limpieza, variables y licencias de datos, consultar el archivo `METADATA.md`).*
 ---
 
 ## 👤 El Equipo: PCABoys
